@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Hartsfield-Jackson Atlanta International Airport",
+    "iata": "ATL"
+  },
+  {
+    "name": "Beijing Capital International Airport",
+    "iata": "PEK"
+  },
+  {
+    "name": "Dubai International Airport",
+    "iata": "DXB"
+  },
+  {
+    "name": "Tokyo Haneda Airport",
+    "iata": "HND"
+  },
+  {
+    "name": "Los Angeles International Airport",
+    "iata": "LAX"
+  },
+  {
+    "name": "Chicago O'Hare International Airport",
+    "iata": "ORD"
+  },
+  {
+    "name": "London Heathrow Airport",
+    "iata": "LHR"
+  },
+  {
+    "name": "Hong Kong International Airport",
+    "iata": "HKG"
+  },
+  {
+    "name": "Paris Charles de Gaulle Airport",
+    "iata": "CDG"
+  },
+  {
+    "name": "Amsterdam Schiphol Airport",
+    "iata": "AMS"
+  },
+  {
+    "name": "Frankfurt Airport",
+    "iata": "FRA"
+  },
+  {
+    "name": "Munich Airport",
+    "iata": "MUC"
+  },
+  {
+    "name": "Berlin Brandenburg Airport",
+    "iata": "BER"
+  },
+  {
+    "name": "Düsseldorf Airport",
+    "iata": "DUS"
+  },
+  {
+    "name": "Leonardo da Vinci-Fiumicino Airport",
+    "iata": "FCO"
+  },
+  {
+    "name": "Milan Malpensa Airport",
+    "iata": "MXP"
+  },
+  {
+    "name": "Venice Marco Polo Airport",
+    "iata": "VCE"
+  },
+  {
+    "name": "Naples International Airport",
+    "iata": "NAP"
+  },
+  {
+    "name": "Rome International Airport",
+    "iata": "ROM"
+  }
+]
